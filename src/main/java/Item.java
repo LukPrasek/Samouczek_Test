@@ -36,7 +36,6 @@ public class Item implements Comparable<Item> {
         return result;
     }
 
-
     public Double getPrice() {
         return price;
     }
